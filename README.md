@@ -1,2 +1,1 @@
-# BoxKnight-Shipping
-BoxKnight custom shipping module for Magento
+The BoxKnight_Shipping module provides integration with the BoxKnight Livraisons shipping carrier.
